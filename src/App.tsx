@@ -82,6 +82,7 @@ function App() {
     {/* <LoginStatus /> */}
     <FruiList />
     <UserLIst />
+    <p>New Change</p>
     </div>
   )
 }
